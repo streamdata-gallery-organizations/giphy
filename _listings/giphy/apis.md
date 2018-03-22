@@ -14,8 +14,8 @@ tags:
 - Indie EdTech Data Jam
 - Images
 - Gifs
-created: "2018-03-14"
-modified: "2018-03-14"
+created: "2018-03-22"
+modified: "2018-03-22"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/giphy/master/_listings/giphy/apis.yaml
 specificationVersion: "0.14"
 apis:
