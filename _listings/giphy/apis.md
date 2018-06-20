@@ -9,10 +9,10 @@ description: Giphy is a search engine for GIFs. Animated GIFs have existed for d
   generally looking to discover or create that next big meme.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/giphy-logo.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Giphy
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/giphy/master/_listings/giphy/apis.md
 specificationVersion: "0.14"
 apis:
@@ -172,6 +172,8 @@ x-common:
   url: https://twitter.com/giphy
 - type: x-website
   url: https://giphy.com
+- type: x-website
+  url: http://giphy.com
 include: []
 maintainers:
 - FN: Kin Lane
