@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Giphy
 x-complete: 1
@@ -377,4 +376,3 @@ paths:
       tags:
       - Stickers
       - Trending
----
